@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnmolK99
-- 👀 I’m interested in Machine Learning and various AI techniques to make human life simpler
 - 🌱 I’m currently learning Backend Development with Javascript
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m also interested in Machine Learning and various AI techniques to make human life simpler
+- 💞️ I’m looking to collaborate
 - 📫 Reach me on Linkedin @(https://linkedin.com/in/anmol-kesherwani) or  Email @(anmolakkesherwani@gmail.com)
 
 <!---
